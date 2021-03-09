@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 660911240, guid: 5dd7be0c1f17d4f439d83c15e9ca8dbb, type: 3}
   m_Name: TheBackendSettings
   m_EditorClassIdentifier: 
-  clientAppID: 
-  signatureKey: 
+  clientAppID: 6a40c750-7b5c-11eb-976c-df9f1fdde60d1937
+  signatureKey: 6a40ee60-7b5c-11eb-976c-df9f1fdde60d1937
   functionAuthKey: 
   packageName: com.DefaultCompany.Minigame
   isAllPlatform: 1
